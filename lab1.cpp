@@ -1,5 +1,5 @@
-//modified by:
-//date:
+//modified by: Dylan Anzaldo
+//date: Thu Jan 27 2022
 //
 //author: Gordon Griesel
 //date: Spring 2022
@@ -272,9 +272,3 @@ void render()
 		dir = -dir;
 	}
 }
-
-
-
-
-
-
